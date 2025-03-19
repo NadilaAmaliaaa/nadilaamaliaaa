@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Nadila!<br>🚀 Software Engineer | Backend Developer Enthusiast<br><br>I'm passionate about building scalable web applications, optimizing backend performance, and integrating AI solutions into real-world problems. My expertise includes:<br><br>🏗 Backend Development – Laravel, Go, Node.js<br>🗄 Databases – MySQL, PostgreSQL<br>⚡ Frontend – Bootstrap, Tailwind CSS<br>🤖 Machine Learning – Python<br>🔍 System Design & API Development
+👋 Hello, I'm Nadila!<br>🚀 Software Engineer | Backend Developer Enthusiast<br><br>I'm passionate about building scalable web applications, optimizing backend performance, and integrating AI solutions into real-world problems. My expertise includes:<br><br>🏗 Backend Development – Laravel, Node.js<br>🗄 Databases – MySQL, PostgreSQL<br>⚡ Frontend – Bootstrap, Tailwind CSS<br>🤖 Machine Learning – Python<br>🔍 System Design & API Development
 
 
 ## 🌐 Socials:
